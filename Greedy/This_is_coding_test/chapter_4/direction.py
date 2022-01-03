@@ -31,7 +31,7 @@ print(current_state)
     list1 == list2
     >>> True
     
-    list1 is list2 #list1 and list2 are not same objects that is stored in different memory addresses.
+    list1 is list2 #list1 and list2 are not same objects which are stored in different memory addresses.
     >>> False
 2. python None type
     python None is equal to null type in c++.
