@@ -10,5 +10,17 @@ def practice(i):
     return practice(i)+1
 
 
-z = practice(3)
-print(z)
+#z = practice(3)
+# print(z)
+
+a = 2
+
+
+def FN():
+
+    a = a + 4
+    print(a)
+
+
+FN()
+print(a)
