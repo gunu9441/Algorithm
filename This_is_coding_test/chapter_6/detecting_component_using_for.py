@@ -27,7 +27,7 @@ detect_list = list(map(int, input().split()))
 # print(detect_list)
 
 for i in detect_list:
-    print('detect_comp: ', i)
+    #print('detect_comp: ', i)
     output = binary_detection(compo_list, i, 0, compo_n-1)
     if output != None:
         print('yes', end=' ')
